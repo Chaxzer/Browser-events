@@ -1,0 +1,41 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.d-flex{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin:2% 0;
+} 
+.button {
+  width: 100px;
+  height: 100px;
+  background-color: #ff4d00;
+  /* animation-name: example;
+  animation-duration: 4s; */
+}
+
+@keyframes example {
+  from {background-color: red;}
+  to {background-color: yellow;}
+}
+
+.orn {
+  background-color: orange;
+}
+
+.txW {
+  color:white;
+  font-weight: bold;
+    /* text-shadow: 2px 2px 0px black; */
+  text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;
+}
+
+/* .shake:hover{
+  transform: translate(15%, 10%);
+} */
+/* .shake:active{
+  transform: translate(10px, 100px);
+} */

@@ -1,0 +1,1 @@
+onmousedown=change2() onmouseenter=change3() onmouseleave=change4() onmouseout=change5() onmouseover=change6() onmousemove=change7()  onmouseup=change8() onmousewheel=change9()
